@@ -1,5 +1,5 @@
 
-# EX 8B Hackerrank problem - 2
+# EX 8B: Hackerrank problem - 2
 
 Create an array of size n dynamically, and read the values from stdin. Iterate
 the array calculating the sum of all elements. Print the sum and free the
