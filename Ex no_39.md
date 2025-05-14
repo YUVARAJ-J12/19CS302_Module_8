@@ -1,5 +1,5 @@
 
-# EX NO 39D: program to find sum of digits.
+# EX 39: program to find sum of digits.
 ## DATE: 
 ## AIM:
 To write a C program to find sum of digits.
