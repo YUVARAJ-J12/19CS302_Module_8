@@ -13,6 +13,8 @@ integers
 Output Format
 Print the sum of the integers in the array.
 
+## DATE :
+
 ## AIM:
 To write a program to print the sum of the integers in the array.
 ## ALGORITHM:
