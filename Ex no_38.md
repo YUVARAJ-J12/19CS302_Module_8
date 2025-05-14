@@ -1,9 +1,9 @@
 
-# EX NO 8C : HACKERRANK PROBLEM 3
+# EX 38 : HACKERRANK PROBLEM 3
 
-# AIM:
+## AIM:
 To write a program to print the sum and difference of the given two integers .
-# ALGORITHM:
+## ALGORITHM:
 1. Start.
 2. Define a variables.
 3. Write a program to print the sum and difference of the integers..
@@ -11,7 +11,7 @@ To write a program to print the sum and difference of the given two integers .
 5. Ask the user to make an input.
 6. Print out the answer.
 7. End.
-# PROGRAM:
+## PROGRAM:
 ```
 #include <stdio.h>
 int main() {
@@ -35,8 +35,8 @@ difference
 }
 ```
 
-# OUTPUT
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/608b45c7-8116-443a-8353-018a12e962db)
 
-# RESULT:
+## RESULT:
 Thus, the program is executed and verified successfully.
