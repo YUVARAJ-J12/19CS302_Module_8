@@ -1,5 +1,5 @@
 
-# EX NO 8B: Hackerrank problem - 2
+# EX 37: Hackerrank problem - 2
 
 Create an array of size n dynamically, and read the values from stdin. Iterate
 the array calculating the sum of all elements. Print the sum and free the
@@ -13,9 +13,9 @@ integers
 Output Format
 Print the sum of the integers in the array.
 
-# AIM:
+## AIM:
 To write a program to print the sum of the integers in the array.
-# ALGORITHM:
+## ALGORITHM:
 1. Start.
 2. Define a variables.
 3. Write a program to print the sum of the integers in the array.
@@ -23,7 +23,7 @@ To write a program to print the sum of the integers in the array.
 5. Ask the user to make an input.
 6. Print out the answer.
 7. End.
-# PROGRAM:
+## PROGRAM:
 ```
 #include<stdio.h>
 int main()
@@ -39,7 +39,7 @@ i++;
 }printf("%d",sum);
 }
 ```
-# output:
+## OUTPUT:
 ![image](https://github.com/user-attachments/assets/989a2c54-3a95-4d6a-a16e-370ce01b4ff8)
 # RESULT:
 Thus, the program is executed and verified successfully.
