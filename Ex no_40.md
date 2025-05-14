@@ -1,5 +1,5 @@
 
-# EX NO 8E: Given an array of strings sorted in lexicographical order, print all of its permutations in strict lexicographical order. If two permutations look the same, only print one of them. See the 'note' below for an example.
+# EX 40 : Given an array of strings sorted in lexicographical order, print all of its permutations in strict lexicographical order. If two permutations look the same, only print one of them. See the 'note' below for an example.
 
 Complete the function next_permutation which generates the permutations in the described order.
 
